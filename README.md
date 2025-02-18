@@ -6,7 +6,7 @@ This repository contains **100 Python projects(still in progress)**, ranging fro
 **Goal**: Improve Python skills by coding daily and documenting progress.
 **Structure**: Projects are categorized into **Beginner**, **Intermidiate**, and **Advanced** levels.
 
---
+---
 
 ## Projects List
 
